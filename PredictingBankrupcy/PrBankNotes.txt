@@ -1,0 +1,24 @@
+Notes:
+
+Steps - 
+1. Import Data
+2. Clean Data
+3. Split the Data into Training/Test Sets
+4. Create a Model
+5. Train the Model
+6. Make predictions
+7. Evaluate and improve.
+
+anaconda.com/downloads
+Libraries
+
+Numpy
+Pandas
+MatPlotLib
+Scikit-Learn
+
+Environment
+Jupyter
+
+
+1. file name - 2020Spring_CST498_Lec02_...
