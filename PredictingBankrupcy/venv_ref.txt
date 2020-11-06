@@ -1,0 +1,29 @@
+HOW TO CREATE A VIRTUAL ENVIRONMENT
+
+create:
+python -m venv project_env
+
+activate: 
+project_env\Scripts\activate.bat
+
+check:
+where python
+
+deactivate:
+deactivate
+
+delete:
+rmdir directoryName /s
+
+install requirements:
+pip install -r requirements.txt
+
+VE DIRECTORY SHOULD BE LISTED AND SHOWN IN FRONT
+
+other:
+pip install
+pip freeze: outputs the requirements
+cls: clears the screen :)
+
+include system packages on creation:
+python -m venv(module name) venv(environment name) --system-site-packages
