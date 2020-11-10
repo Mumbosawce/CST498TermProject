@@ -1,0 +1,13 @@
+1. Create database table for financial information (model.py)
+
+2. Login page for users (Users web app)
+
+3. Store user data (Users web app)
+	- Create Html form for user data
+	- Create database table for user data (models.py)
+
+4. Write script to manipulate user data ()
+	- 6 fields to 24 ratios
+
+5. Write the script for predictions
+	- Machine learning portion.
