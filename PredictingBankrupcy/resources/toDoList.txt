@@ -11,3 +11,14 @@
 
 5. Write the script for predictions
 	- Machine learning portion.
+{% extends "blog/base.html"%}
+
+<!-- {% load crispy_forms_tags %} -->
+{% block content %}
+<form>
+	{{ form.as_p }}
+	<input type='submit' value='save'
+
+</form>
+	
+{% endblock content%}
