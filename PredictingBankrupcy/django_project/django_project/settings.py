@@ -123,6 +123,9 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
+MEDIA_ROOT = ''
+MEDIA_URL = ''
+
 #crispy forms
 CRISPY_TEMPLATE_PACK = 'bootstrap4'
 
